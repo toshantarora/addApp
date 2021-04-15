@@ -1,10 +1,17 @@
 import './App.css';
-import Main from './component/main';
+// import Form2 from './component/AddItem/Form2';
+import Main from './component/TodoList/Main';
+
+
+// import Main from './component/main';
 
 function App() {
   return (
     <div className="App">
-      <Main/>
+      {/* <Main/>
+      <hr ></hr> */}
+     {/* <Form2/> */}
+     <Main/>
     </div>
   );
 }

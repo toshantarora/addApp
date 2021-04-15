@@ -1,0 +1,7 @@
+.todo-container{
+    background-color: aqua;
+    display: flex;
+    width: 80%;
+    height: 100vh;
+    flex-direction: column;
+}
