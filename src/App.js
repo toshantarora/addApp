@@ -1,4 +1,5 @@
 import './App.css';
+import DropDown from './component/Dropdown/dropDown';
 // import Form2 from './component/AddItem/Form2';
 import Main from './component/TodoList/Main';
 
@@ -11,7 +12,8 @@ function App() {
       {/* <Main/>
       <hr ></hr> */}
      {/* <Form2/> */}
-     <Main/>
+     {/* <Main/> */}
+     <DropDown/>
     </div>
   );
 }
